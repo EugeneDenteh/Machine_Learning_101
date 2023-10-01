@@ -1,2 +1,2 @@
-# Machine_Learning_101
-An end-to-end Intro to Machine Learning
+# Introduction_to_Machine_Learning
+ An end to end introduction to machine learning basics
